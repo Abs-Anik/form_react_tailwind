@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form_react_tailwind/static/css/main.bdf261fc.css",
+    "main.js": "/form_react_tailwind/static/js/main.50d119b5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/form_react_tailwind/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/form_react_tailwind/index.html",
+    "main.bdf261fc.css.map": "/form_react_tailwind/static/css/main.bdf261fc.css.map",
+    "main.50d119b5.js.map": "/form_react_tailwind/static/js/main.50d119b5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/form_react_tailwind/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf261fc.css",
+    "static/js/main.50d119b5.js"
+  ]
+}
