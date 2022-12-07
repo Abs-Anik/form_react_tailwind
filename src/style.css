@@ -1,0 +1,41 @@
+@media screen and (min-width: 380px) and (max-width: 480px){
+
+	.custom-res{
+        font-size: 14px !important;
+    }
+
+    .custom-res-p{
+        font-size: 11px !important;
+    }
+    .custom-res-sm{
+        font-size: 14px !important;
+    }
+}
+
+@media screen and (min-width: 281px) and (max-width: 379px){
+
+	.custom-res{
+        font-size: 10px !important;
+    }
+
+    .custom-res-p{
+        font-size: 8px !important;
+    }
+    .custom-res-sm{
+        font-size: 10px !important;
+    }
+}
+
+@media screen and (min-width: 250px) and (max-width: 280px){
+
+	.custom-res{
+        font-size: 9px !important;
+    }
+
+    .custom-res-p{
+        font-size: 8px !important;
+    }
+    .custom-res-sm{
+        font-size: 9px !important;
+    }
+}
