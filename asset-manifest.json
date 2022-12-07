@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/form_react_tailwind/static/css/main.bdf261fc.css",
-    "main.js": "/form_react_tailwind/static/js/main.50d119b5.js",
+    "main.css": "/form_react_tailwind/static/css/main.ccb016f9.css",
+    "main.js": "/form_react_tailwind/static/js/main.e53d692f.js",
     "static/js/787.28cb0dcd.chunk.js": "/form_react_tailwind/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/form_react_tailwind/index.html",
-    "main.bdf261fc.css.map": "/form_react_tailwind/static/css/main.bdf261fc.css.map",
-    "main.50d119b5.js.map": "/form_react_tailwind/static/js/main.50d119b5.js.map",
+    "main.ccb016f9.css.map": "/form_react_tailwind/static/css/main.ccb016f9.css.map",
+    "main.e53d692f.js.map": "/form_react_tailwind/static/js/main.e53d692f.js.map",
     "787.28cb0dcd.chunk.js.map": "/form_react_tailwind/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdf261fc.css",
-    "static/js/main.50d119b5.js"
+    "static/css/main.ccb016f9.css",
+    "static/js/main.e53d692f.js"
   ]
 }
